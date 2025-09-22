@@ -1,5 +1,6 @@
 # Assignment: Linear Models, Regularization, and Model Selection on Real Data
 
+**Deadline:** Sunday, October 5th, 2025, 23:59
 **Environment:** Python, `numpy`, `pandas`, `matplotlib`, `scikit-learn`.
 
 ---
@@ -62,13 +63,13 @@
 8. **Alternative Dataset**
 
   * Use the **Bike Sharing Dataset** (available in the `data` folder).
-  * Predict daily rentals; investigate seasonal effects.
-  * Apply the same pipeline as above.
+  * Predict daily rentals (`cnt`); investigate seasonal effects.
+  * Apply all the same steps as above.
 
 ---
 
 ### Deliverables
-You must fork the original repository, and turn in a link to your groups repository with:
+You must fork the [original repository](), and turn in a link to your groups repository with:
 
 * A Jupyter notebook (in the `src` folder) with:
 
