@@ -23,7 +23,7 @@
 
 3. **Gradient Descent**
 
-   * Implement batch gradient descent to minimize mean squared error.
+   * Implement gradient descent to minimize mean squared error.
    * Experiment with at least two learning rates; show cost vs. iteration curves.
    * Compare parameters and test error to the closed-form OLS.
 
