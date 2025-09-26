@@ -12,8 +12,8 @@
    Use the **California Housing dataset** (`from sklearn.datasets import fetch_california_housing`).
 
    * Create a hold-out test set.
-   * Predict the median house value (`MedHouseVal`) from the remaining features.
    * Standardize features to zero mean and unit variance.
+   * Predict the median house value (`MedHouseVal`) from the remaining features using `LinearRegression` from `sklearn.linear_model`.
 
 2. **Closed-form OLS**
 
